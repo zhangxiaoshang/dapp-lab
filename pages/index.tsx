@@ -27,6 +27,13 @@ const Home: NextPage = () => {
               <p>usedapp & ethers</p>
             </div>
           </Link>
+
+          <Link href="/BigNumber">
+            <div className={styles.card}>
+              <h2>BigNumber &rarr;</h2>
+              <p>BigNumber.js & BN.js</p>
+            </div>
+          </Link>
         </div>
       </main>
 
